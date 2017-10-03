@@ -1,5 +1,9 @@
 <?php
 
-echo ("Hello World");
+$ilk='Hello World';
+echo ($ilk);
+
+
 
 ?>
+
